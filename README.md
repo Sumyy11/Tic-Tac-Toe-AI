@@ -12,3 +12,5 @@ TECHNICAL SKILLS:
 •	Programming Languages: Python
 •	Algorithms: Minimax Algorithm
 •	Game Development
+
+This project reflects my passion for both artificial intelligence and game development, and it demonstrates my ability to create sophisticated algorithms to enhance user experiences. The Tic-Tac-Toe AI agent project showcases my technical skills, creativity, and dedication to delivering high-quality software solutions.
